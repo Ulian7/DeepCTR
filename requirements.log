@@ -18,7 +18,7 @@ importlib-metadata==3.4.0
 iniconfig==1.1.1
 ipdb==0.13.7
 ipykernel==5.5.0
-ipython==7.16.1
+ipython==7.17.0
 ipython-genutils==0.2.0
 jedi==0.18.0
 joblib==1.0.0
