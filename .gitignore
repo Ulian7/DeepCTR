@@ -3,7 +3,6 @@
 **/*.hdf5
 **/*.csv
 **/*.pth
-**/*.log
 **/*.pkl
 
 toCombine/
